@@ -1,1 +1,2 @@
-# sentimentanalysis
+# Computer Science Fundamentals
+In this project, I wrote a Python module, called sentiment_analysis.py and a main program, main.py, that uses the module to analyze Twitter information.  In the module sentiment_analysis.py, I created a function that will perform simple sentiment analysis on Twitter data.  The Twitter data contains comments from individuals about how they feel about their lives and comes from individuals across the continental United States.  The objective is to determine which timezone (Eastern, Central, Mountain, Pacific; see below for more information on how to do this) is the “happiest”.
